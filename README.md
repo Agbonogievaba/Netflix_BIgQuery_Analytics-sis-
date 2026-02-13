@@ -9,10 +9,10 @@ An analysis of Netflix's library growth from 2015-2021, focusing on the rise of 
 * Content Mix: The United States remains the largest contributor, with a heavy leaning toward Movies over TV Shows.
 
 ## Final Dashboard
-![Netflix Dashboard](dashboard.png)
+dashboard netflix.jpeg
 
 ## Tools Used
-* Google BigQuery:** Data cleaning (handling delimited strings, date parsing) and aggregation.
-* SQL:** Advanced queries using `UNNEST`, `SPLIT`, and `CASE WHEN` logic.
+* Google BigQuery:Data cleaning (handling delimited strings, date parsing) and aggregation.
+* SQL:Advanced queries using `UNNEST`, `SPLIT`, and `CASE WHEN` logic.
 * Tableau: Data visualization.
 *
